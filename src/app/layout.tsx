@@ -16,8 +16,6 @@ const MintbaseWalletSetup = {
   callbackUrl: process.env.NEXT_PUBLIC_CALLBACK_URL,
 };
 
-
-
 export default function RootLayout({
   children,
 }: {
